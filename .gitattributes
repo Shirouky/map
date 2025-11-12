@@ -1,0 +1,3 @@
+*.ipynb linguist-detectable
+*.py linguist-detectable
+*.ipynb linguist-language=Python
